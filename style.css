@@ -1,5 +1,10 @@
 .container {
-    text-align: center;
+    margin-right: auto;
+    margin-left: auto;
+    box-shadow: 50px;
+    background-color: aqua;padding: 20px;
+    width: fit-content;
+    
 }
 .buttons {
     display: flex;
